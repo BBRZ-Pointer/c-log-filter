@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 	// 如果用户没输入日志文件名（参数小于2个）
 	if (argc < 2) {
 	    // 打印标准用法提示
-        printf("用法：你的日志文件名.exe \n");
+        printf("用法：%s 你的日志文件名\n");
         return 1; // 直接退出程序，用户重新使用程序
     }
 	
