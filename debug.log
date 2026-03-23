@@ -1,0 +1,5 @@
+2026-03-23 10:00:00 [INFO] Service started.
+2026-03-23 10:00:05 [error] Database connection timeout.
+2026-03-23 10:00:10 [INFO] User login success.
+2026-03-23 10:00:15 [ERROR] Memory usage exceeds 90%.
+2026-03-23 10:00:20 [ERROR] Unknown exception caught.
